@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>MyRevitCommands</Name>
+		<Assembly>C:\Y O U R P A T H \MyRevitCommands.dll</Assembly>
+		<AddInId>95E39F56-322D-4767-A1D1-AA543E7AFEA9</AddInId>
+		<VendorId>YOUR ID</VendorId>
+		<VendorDescription>Test Add-in for Revit</VendorDescription>
+		<FullClassName>GetElementId</FullClassName>
+	</AddIn>
+</RevitAddIns>
