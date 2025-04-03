@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>CountElements</Name>
+    <Assembly>"C:\.......\CountElement.dll"</Assembly>
+    <AddInId>6D64B4A0-44A2-48B9-BB57-7CC74FC22810</AddInId>
+    <FullClassName>CountElementsCommand</FullClassName>
+    <VendorId>...........</VendorId>
+    <VendorDescription>Example Add-in</VendorDescription>
+  </AddIn>
+</RevitAddIns>
