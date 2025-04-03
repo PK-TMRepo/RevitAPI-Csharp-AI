@@ -81,7 +81,7 @@ obj/
 
 ## 📜 License
 
-This project is not open-source. Copying, modifying or distributing the plugin or its components without permission is strictly prohibited.
+This project is licensed under the MIT License.
 
 ---
 
