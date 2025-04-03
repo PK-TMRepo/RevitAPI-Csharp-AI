@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>RoomAreaCalculator</Name>
+    <Assembly>C:\Path\To\RoomAreaCalculator.dll</Assembly>
+    <AddInId>1e2e3e3e-4e4e-5e5e-6e6e-7e7e7e7e7e7e</AddInId>
+    <FullClassName>KoconAI.RoomAreaCalculator.App</FullClassName>
+    <VendorId>KOCON</VendorId>
+    <VendorDescription>KOCOŃ AI Tools</VendorDescription>
+  </AddIn>
+</RevitAddIns>
