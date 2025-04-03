@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>ExportToCSV</Name>
+    <Assembly>C:\Path\To\ExportToCSV.dll</Assembly>
+    <AddInId>aa1111bb-cc22-dd33-ee44-ff5566778899</AddInId>
+    <FullClassName>ExportToCSV</FullClassName>
+    <VendorId>KOCON</VendorId>
+    <VendorDescription>KOCOŃ AI Tools</VendorDescription>
+  </AddIn>
+</RevitAddIns>
