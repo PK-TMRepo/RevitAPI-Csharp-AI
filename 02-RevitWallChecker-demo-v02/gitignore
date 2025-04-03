@@ -1,0 +1,24 @@
+# Ignore build output folders
+bin/
+obj/
+
+# Ignore user-specific Visual Studio settings
+*.user
+*.suo
+.vscode/
+.vs/
+
+# Ignore Revit plugin files (you configure them locally)
+*.addin
+
+# Ignore backup files
+*.bak
+*.tmp
+*~
+
+# Ignore compiled DLLs if not tracked manually
+*.dll
+
+# Optional: ignore logs or OpenAI config if you create one
+*.log
+openai_config.json
