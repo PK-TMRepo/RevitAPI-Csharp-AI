@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>WallCheckerAI</Name>
+    <Assembly>C:\  YOUR PATH   \WallCheckerAI.dll</Assembly>
+    <AddInId>5b9e5f77-0c91-46c2-a9e6-3ffaf6f00000</AddInId>
+    <FullClassName>WallCheckerAI.App</FullClassName>
+    <VendorId>      COMPANY    NAME    </VendorId>
+    <VendorDescription>Wall compliance plugin</VendorDescription>
+  </AddIn>
+</RevitAddIns>
