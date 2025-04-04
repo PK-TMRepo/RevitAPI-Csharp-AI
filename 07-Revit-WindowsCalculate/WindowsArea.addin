@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>WindowsArea</Name>
+    <Assembly>C:\Path\To\WindowsArea.dll</Assembly>
+    <AddInId>aaddeeff-1122-3344-5566-77889900aabb</AddInId>
+    <FullClassName>WindowAreaCalculator.WindowAreaCommand</FullClassName>
+    <VendorId>KOCON</VendorId>
+    <VendorDescription>KOCOŃ AI Tools</VendorDescription>
+  </AddIn>
+</RevitAddIns>
