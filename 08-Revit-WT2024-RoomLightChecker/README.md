@@ -1,4 +1,4 @@
-# WTRoom
+# WTRoom - demo -v01 (Revit RoomLightChecker)
 
 **WTRoom** is a Revit plugin that checks whether a selected room meets the daylight requirement based on window-to-floor area ratio. It supports Polish technical conditions (WT 2024) for rooms designated for permanent or temporary occupancy.
 
