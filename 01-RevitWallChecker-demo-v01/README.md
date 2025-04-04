@@ -1,6 +1,6 @@
-# 🧱 WallCheckerAI – Revit Plugin
+# 🧱 WallChecker-demo-v01 – Revit Plugin (without AI integration)
 
-WallCheckerAI is a simple and smart plugin for Autodesk Revit 2025 that:
+WallChecker is a simple and smart plugin for Autodesk Revit 2025 that:
 
 - Adds a custom tab and button to the Revit ribbon interface
 - Lets the user select a wall and checks its height
