@@ -1,6 +1,6 @@
-# BiologicznaTrawaSimple
+# Grass Surface Ratio
 
-**BiologicznaTrawaSimple** is a Revit plugin that calculates the percentage of biologically active area ("powierzchnia biologicznie czynna") based on Toposolid elements in your model. It is designed to assist in evaluating compliance with Polish urban planning standards for green areas.
+**Grass Surface Ratio** is a Revit plugin that calculates the percentage of biologically active area (in polish: "powierzchnia biologicznie czynna") based on Toposolid elements in your model. It is designed to assist in evaluating compliance with Polish urban planning standards for green areas.
 
 > 📦 Version: `v1.0` – Simple and effective biologically active area calculator.
 
