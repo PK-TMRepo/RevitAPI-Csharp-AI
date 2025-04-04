@@ -1,6 +1,6 @@
-# WindowsArea
+# Windows Calculate
 
-**WindowsArea** is a Revit plugin that calculates the total surface area of all windows in the active Revit project. It also counts the number of windows and displays the result in a simple TaskDialog window.
+**Windows Calculate** is a Revit plugin that calculates the total surface area of all windows in the active Revit project. It also counts the number of windows and displays the result in a simple TaskDialog window.
 
 > 📦 Version: `v1.0` – Lightweight Revit plugin for window surface calculation.
 
