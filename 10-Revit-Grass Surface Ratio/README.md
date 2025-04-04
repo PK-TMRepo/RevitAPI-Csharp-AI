@@ -1,4 +1,4 @@
-# Grass Surface Ratio
+# Revit - Grass Surface Ratio ( version for Revit 2025 )
 
 **Grass Surface Ratio** is a Revit plugin that calculates the percentage of biologically active area (in polish: "powierzchnia biologicznie czynna") based on Toposolid elements in your model. It is designed to assist in evaluating compliance with Polish urban planning standards for green areas.
 
