@@ -1,4 +1,4 @@
-# 🧱 WallChecker-demo-v01 – Revit Plugin (without AI integration)
+# 🧱 WallChecker-demo-v01 – Revit Plugin (this is demo without AI integration)
 
 WallChecker is a simple and smart plugin for Autodesk Revit 2025 that:
 
