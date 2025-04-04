@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>WTRoom</Name>
+    <Assembly>C:\Path\To\WTRoom.dll</Assembly>
+    <AddInId>dd112233-4455-6677-8899-aabbccddeeff</AddInId>
+    <FullClassName>ExternalCommand</FullClassName>
+    <VendorId>KOCON</VendorId>
+    <VendorDescription>KOCOŃ AI Tools</VendorDescription>
+  </AddIn>
+</RevitAddIns>
