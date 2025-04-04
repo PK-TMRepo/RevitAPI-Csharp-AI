@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>BiologicznaTrawaSimple</Name>
+    <Assembly>C:\Path\To\BiologicznaTrawaSimple.dll</Assembly>
+    <AddInId>44445555-6666-7777-8888-9999aaaabbbb</AddInId>
+    <FullClassName>BiologicznaTrawaSimple.Command</FullClassName>
+    <VendorId>KOCON</VendorId>
+    <VendorDescription>KOCOŃ AI Tools</VendorDescription>
+  </AddIn>
+</RevitAddIns>
