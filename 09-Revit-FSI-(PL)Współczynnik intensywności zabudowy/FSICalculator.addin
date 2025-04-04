@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>FSICalculator</Name>
+    <Assembly>C:\Path\To\FSICalculator.dll</Assembly>
+    <AddInId>f5f5a3a3-bbbb-cccc-dddd-eeeeeeeeeeee</AddInId>
+    <FullClassName>FSICalculator.App</FullClassName>
+    <VendorId>KOCON</VendorId>
+    <VendorDescription>KOCOŃ AI Tools</VendorDescription>
+  </AddIn>
+</RevitAddIns>
