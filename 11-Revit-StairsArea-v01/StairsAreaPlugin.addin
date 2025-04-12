@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>StairsAreaPlugin</Name>
+    <Assembly>$(AppData)\Autodesk\Revit\Addins\2025\StairsAreaPlugin.dll</Assembly>
+    <AddInId>8D83C886-B739-4ACD-A9DB-73F254E3D46B</AddInId>
+    <FullClassName>StairsAreaPlugin.Command</FullClassName>
+    <VendorId>PK01</VendorId>
+    <VendorDescription>Plugin for calculating stair and ramp surface area</VendorDescription>
+  </AddIn>
+</RevitAddIns>
